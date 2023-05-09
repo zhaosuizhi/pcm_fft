@@ -17,3 +17,7 @@ ffmpeg -i ./a-team_intro.wav -f s16le -acodec pcm_s16le ./a-team_intro.pcm
 ```
 
 参考链接：[Can ffmpeg convert audio to raw PCM? If so, how? [closed]](https://stackoverflow.com/a/4854627/13833174)
+
+### mixkit-classic-alarm-995.pcm
+
+来自 [mixkit](https://mixkit.co/free-sound-effects/) 中的 Classic alarm，采样率44100 Hz。

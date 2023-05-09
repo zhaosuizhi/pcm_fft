@@ -25,3 +25,4 @@ def draw_fft_result_for_pcm_file(path: str, sample_rate: int):
 
 if __name__ == '__main__':
     draw_fft_result_for_pcm_file('test_resource/a-team_intro.pcm', 11025)
+    draw_fft_result_for_pcm_file('test_resource/mixkit-classic-alarm-995.pcm', 44100)
